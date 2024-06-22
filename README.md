@@ -11,8 +11,7 @@
 This is a quiz game where it was used livewire and a little bit of alpine to study about this techs. In this quiz there's time to answer the questions and a ranking to show the positions of competitors where it's necessary to be logged to participate
 
 ## 📲 Demo
-
-<!-- ![livewire-quiz](https://github.com/cristiankozlowski/movies-offline/assets/26977328/9c3d7713-e11e-4d11-8bac-20394bc3de86) -->
+![quiz](https://github.com/cristiankozlowski/livewire-quiz/assets/26977328/00f85b64-f8e3-43fb-9aec-a4b4ac7616e6)
 
 ## ⚙️ Deploy
 
